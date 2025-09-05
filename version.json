@@ -1,18 +1,7 @@
-{
-    "android": {
-        "minSupported": 42,
-        "latest": 50,
-        "force": true,
-        "storeUrl": "https://play.google.com/store/apps/details?id=SEU.PACKAGE",
-        "message": "Atualize para continuar. Correções importantes."
-    },
-    "ios": {
-        "minSupported": 17,
-        "latest": 21,
-        "force": false,
-        "storeUrl": "https://apps.apple.com/app/idSEU_APP_ID",
-        "message": "Nova versão disponível."
-    },
-    "runtimeVersion": "sdk-51",
-    "updatedAt": "2025-09-05T18:00:00Z"
-}
+   {
+     "android": {
+       "minSupported": 8,
+       "force": true,
+       "message": "Atualização obrigatória. Correções importantes."
+     }
+   }
