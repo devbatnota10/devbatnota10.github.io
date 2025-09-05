@@ -1,6 +1,6 @@
 {
     "android": {
-        "minSupported": 7,
+        "minSupported": 8,
         "latest": 50,
         "force": true,
         "storeUrl": "https://play.google.com/store/apps/details?id=com.baterianota10.mobile",
